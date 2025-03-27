@@ -10,7 +10,6 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.retrievers import BM25Retriever
 from langchain.schema import Document
 from docx import Document as DocxDocument
-import xlrd
 
 # Define Paths
 DATA_DIRECTORY = r"data"
