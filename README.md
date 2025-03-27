@@ -4,3 +4,8 @@ The app will accept pdf, doc, csv, xls, txt for now and ingest them to get embed
 will be as per user choice. The generative llm will be as per user choice as well. The GUI will be in streamlit
 The final output should be a standalone program. All data will be included in the standalone program. The ingesting
 can be continuous like if we need to add more documents later, then that should be available.
+
+### Tasks
+### Working embedding model implementation for various file formats present in data folder (Done)
+### Passing data to local LLM
+
